@@ -1,4 +1,4 @@
-In this project, tennis match data was scraped from the SoftScore website, and questions were designed for it. My team and I had to answer these questions, and we also created additional questions ourselves and answered them. I solved questions 3, 4, 7, 8, 13, and 14, which were designed by the project creators. Additionally, I designed and answered questions 21, 22, and 23 myself. The answers to the questions we designed are included in the notebook:
+In this project, tennis match data was scraped from the SofaScore website, and questions were designed for it. My team and I had to answer these questions, and we also created additional questions ourselves and answered them. I solved questions 3, 4, 7, 8, 13, and 14, which were designed by the project creators. Additionally, I designed and answered questions 21, 22, and 23 myself. The answers to the questions we designed are included in the notebook:
 Questions were designed:
 
 1- How many tennis players are included in the dataset?
